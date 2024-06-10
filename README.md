@@ -12,3 +12,7 @@ Code that I used as an example of a finished product which allowed me to further
 File 3: Calc.py
 
 This simple calculator program taught me essential concepts such as input handling, conditional statements, loops, and basic arithmetic operations. It served as a foundational exercise to grasp how to structure a program and implement user interaction, which are critical skills for more advanced coding projects.
+
+File 4: 1.py
+
+This was the final product of one of my assessments, which in the process of creating I learned about user interaction and input handling, conditional logic and loops, error handling and validation and class variables and methods. wiriting this code helped me to hammer home these concepts, and make sure that I really understood them.
