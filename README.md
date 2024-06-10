@@ -8,3 +8,7 @@ Code that I created while studying for an software assessment. I created this co
 File 2: Grocery_Upgraded_V1_V2.py
 
 Code that I used as an example of a finished product which allowed me to further my study by allowing me to understand what I need to strive for in my own project, as well as allowing me to better understand the code at play in both my own code and the code concepts overall.
+
+File 3: Calc.py
+
+This simple calculator program taught me essential concepts such as input handling, conditional statements, loops, and basic arithmetic operations. It served as a foundational exercise to grasp how to structure a program and implement user interaction, which are critical skills for more advanced coding projects.
