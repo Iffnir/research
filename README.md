@@ -15,4 +15,4 @@ This simple calculator program taught me essential concepts such as input handli
 
 File 4: 1.py
 
-This was the final product of one of my assessments, which in the process of creating I learned about user interaction and input handling, conditional logic and loops, error handling and validation and class variables and methods. wiriting this code helped me to hammer home these concepts, and make sure that I really understood them.
+This was the final product of one of my assessments, which in the process of creating I learned about user interaction and input handling, conditional logic and loops, error handling and validation and class variables and methods. Writing this code helped me to hammer home these concepts, and make sure that I really understood them.
